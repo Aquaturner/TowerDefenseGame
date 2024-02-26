@@ -1,2 +1,2 @@
-# TowerDefenseGame
-Part of SW Practice
+# TowerDefenceTutorial
+All the code and resources for our Tower Defence tutorial.
